@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rimuru165/PSITS-web.git/static/css/main.ea444d2a.css",
-    "main.js": "/rimuru165/PSITS-web.git/static/js/main.25a253c0.js",
-    "index.html": "/rimuru165/PSITS-web.git/index.html",
-    "main.ea444d2a.css.map": "/rimuru165/PSITS-web.git/static/css/main.ea444d2a.css.map",
-    "main.25a253c0.js.map": "/rimuru165/PSITS-web.git/static/js/main.25a253c0.js.map"
+    "main.css": "/static/css/main.ea444d2a.css",
+    "main.js": "/static/js/main.25a253c0.js",
+    "index.html": "/index.html",
+    "main.ea444d2a.css.map": "/static/css/main.ea444d2a.css.map",
+    "main.25a253c0.js.map": "/static/js/main.25a253c0.js.map"
   },
   "entrypoints": [
     "static/css/main.ea444d2a.css",
