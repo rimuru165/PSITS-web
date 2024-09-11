@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PSITS-web/static/css/main.ea444d2a.css",
-    "main.js": "/PSITS-web/static/js/main.25a253c0.js",
+    "main.css": "/PSITS-web/static/css/main.2df3d417.css",
+    "main.js": "/PSITS-web/static/js/main.27a478b4.js",
     "index.html": "/PSITS-web/index.html",
-    "main.ea444d2a.css.map": "/PSITS-web/static/css/main.ea444d2a.css.map",
-    "main.25a253c0.js.map": "/PSITS-web/static/js/main.25a253c0.js.map"
+    "main.2df3d417.css.map": "/PSITS-web/static/css/main.2df3d417.css.map",
+    "main.27a478b4.js.map": "/PSITS-web/static/js/main.27a478b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea444d2a.css",
-    "static/js/main.25a253c0.js"
+    "static/css/main.2df3d417.css",
+    "static/js/main.27a478b4.js"
   ]
 }
