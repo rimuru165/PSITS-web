@@ -7,22 +7,22 @@ function Events() {
       <div className="events-content">
         <h1>Our Events</h1>
         <div className="event-item">
-          <img src="https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/458548814_122227806668003887_8694774206272040132_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHL88L9HCnI93VDxC3X38peQnoH8iWE65NCegfyJYTrkw21sxpjTYQUZI0F-Mxb0C4j4aoHbOTw3s1OB2pUSlTS&_nc_ohc=oTS69gkhVssQ7kNvgEvTX0j&_nc_ht=scontent.fcgy2-4.fna&oh=00_AYBWL-1Yj4G2XGeAVcLnsUecPvD5m3FU5XNfKWQgeejACg&oe=66E49B66" alt="Event 1" />
+          <img src="https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/445355447_420634554121673_1361892659386398914_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHTk-CExZjzEa-KWU6XcO3VIiu8HOe2Jp0iK7wc57YmnfSmEcUoGewv9_GsrusduvpBmTeBJqrpV0sXVkp4tFwD&_nc_ohc=hEQWXHtMHloQ7kNvgGRpV5A&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&oh=00_AYDEEl6yZTP0lo1dYhAugQwqkRyK_jU2nLD6zmcDc5ywgQ&oe=66E6F901" alt="Event 1" />
           <h3>Event 1</h3>
           <p>Description of what happened during the event.</p>
         </div>
         <div className="event-item">
-          <img src="https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/405903680_122157990050003887_8406807244395396923_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF7pT-xZ2O1uqcHhoEhN2BEQMMes5o1NclAwx6zmjU1ySJ0WZVYCyXkyXuyMw8Jgf5HLQLXBSsv-BxjnFF1euqE&_nc_ohc=QtILCfp0pFoQ7kNvgFNnRUC&_nc_ht=scontent.fcgy2-4.fna&_nc_gid=ASKfubxhiMd7qqWXkEplUcE&oh=00_AYBh-_1Nk5q_CmmzVTpGjtDUpTzYxEK8S6VYNj1fsUkBzw&oe=66E4966C" alt="Event 2" />
+          <img src="https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/440383474_410374508481011_7679893594047608962_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHJDUaIsLvcraidW7vSxEjX2MAmjtdH8IXYwCaO10fwhaNMEPDPyf6a36hsep2_7XnPZ-jFFu93jtB_piwdF2pJ&_nc_ohc=YdSOVWvLUA0Q7kNvgGNgRAt&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=Ay6IiwFbA0LqJejP0nD_1Jv&oh=00_AYBy2cTdl9EMYshu_XWWSvr6CiaOMMIkOdHz_3IzOV1j-w&oe=66E71884" alt="Event 2" />
           <h3>Event 2</h3>
           <p>Description of what happened during the event.</p>
         </div>
         <div className="event-item">
-          <img src="https://scontent.fcgy2-3.fna.fbcdn.net/v/t39.30808-6/405504834_122157987722003887_2407320135376316439_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFnkgwVxbjEnPL7MTfjARs5IlBX_eq0WeYiUFf96rRZ5h-PAulRqibJBiCaVlK0twz-j2pwmyz70zjUsg6YGn1s&_nc_ohc=cWiUNgqbOZYQ7kNvgEecmak&_nc_ht=scontent.fcgy2-3.fna&oh=00_AYAGvlma74U9CplpzOuQpvYGKvVbrG5Cx1y07jPhIPD1Fg&oe=66E4ABC8" alt="Event 3" />
+          <img src="https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/440356462_410372505147878_6171333370306051411_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeETnERWmQNmNl_Cn3doCPTtCw9g-9HfoyQLD2D70d-jJAXOdsE-TW5Pko9s9UZL7wUOCxZx45YhlNspjo0uPPtH&_nc_ohc=7MMGQd3_fFEQ7kNvgGkI8mT&_nc_zt=23&_nc_ht=scontent.fdvo2-2.fna&_nc_gid=Ao77Hf0y5sHBY5VcLYD7KIb&oh=00_AYA2_u2eFbM8UZ4K5aCVY3d8-F-4dN7df0WtPjuKgi66ww&oe=66E6EDE6" alt="Event 3" />
           <h3>Event 3</h3>
           <p>Description of what happened during the event.</p>
         </div>
         <div className="event-item">
-          <img src="https://scontent.fcgy2-4.fna.fbcdn.net/v/t39.30808-6/404593603_122157843140003887_557602830534542330_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeETEB-hEDCenU-NaW6Zx2ZbbpHyqnhS2rZukfKqeFLatk8lZsUrlmVAKO4Gdkrod2QXICqLeaiyYZeByGQ8CcOK&_nc_ohc=fVzBAOkIpZsQ7kNvgGZRdms&_nc_ht=scontent.fcgy2-4.fna&oh=00_AYC40kiyVJ7NSYfcv5VDNXdi5HCT0kICPE-HajrbP8OSBg&oe=66E48906" alt="Event 4" />
+          <img src="https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/431759692_378134685038327_5629947615912107837_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGpEoLcjWyViiSlTWNbQBvSy6rKu0fS77fLqsq7R9Lvt470ySWaz8veVb9Pk8RRcWjHMRdy_cZeGAV5CufZ5_9r&_nc_ohc=bpPM8VEX9fYQ7kNvgGjQ88C&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=AqPNgKBmiDU3zPSdMTW-jIZ&oh=00_AYDFW7DZE9o3wePgpi9Sn4ydMUGbXQGzAHOLykAjG0IoXA&oe=66E6FEA7" alt="Event 4" />
           <h3>Event 4</h3>
           <p>Description of what happened during the event.</p>
         </div>
