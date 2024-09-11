@@ -1,55 +1,95 @@
-/* Global Styles */
+/* Global Styles in App.css */
 body, html {
   height: 100%;
   margin: 0;
   font-family: Arial, sans-serif;
-  background: url('https://images.hdqwalls.com/wallpapers/blue-archive-hm.jpg') no-repeat center center fixed;
+  background: url('https://images.hdqwalls.com/wallpapers/arona-and-plana-blue-archive-19.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
-.container {
-  margin-top: 80px;
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensures the navbar stays above other content */
 }
 
-/* Semi-transparent box for content across all pages */
+nav {
+  background-color: #333;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  display: block;
+  padding: 15px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #575757;
+}
+
+main {
+  margin-top: 60px; /* Adjust based on the height of your navbar */
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.container {
+  margin: 20px;
+}
+
 .semi-transparent-box {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 20px;
   border-radius: 10px;
 }
 
-/* Footer Styles */
-footer {
-  background-color: #222;
-  color: white;
-  padding: 10px 0;
-  text-align: center;
-  width: 100%;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-}
-
-/* Responsive Design for Mobile */
 @media (max-width: 768px) {
   .container {
     margin-top: 100px; /* More spacing on smaller screens */
     padding: 15px;
   }
 
-  .navbar-brand {
-    font-size: 1.5rem; /* Adjust branding size for mobile */
+  nav ul {
+    flex-direction: column;
   }
 
-  .navbar-nav .nav-link {
-    font-size: 1.2rem;
+  nav ul li {
+    margin: 0;
+  }
+
+  nav ul li a {
+    padding: 10px;
+    font-size: 1rem;
   }
 
   footer {
     font-size: 0.9rem;
   }
 
-  /* Ensure that the semi-transparent box on smaller screens has better padding */
   .semi-transparent-box {
     padding: 10px;
   }
