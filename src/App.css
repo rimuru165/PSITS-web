@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+/* Global Styles */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url('https://images.hdqwalls.com/wallpapers/blue-archive-hm.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  margin-top: 80px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Semi-transparent box for content across all pages */
+.semi-transparent-box {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/* Footer Styles */
+footer {
+  background-color: #222;
   color: white;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+  .container {
+    margin-top: 100px; /* More spacing on smaller screens */
+    padding: 15px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .navbar-brand {
+    font-size: 1.5rem; /* Adjust branding size for mobile */
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 1.2rem;
+  }
+
+  footer {
+    font-size: 0.9rem;
+  }
+
+  /* Ensure that the semi-transparent box on smaller screens has better padding */
+  .semi-transparent-box {
+    padding: 10px;
   }
 }
